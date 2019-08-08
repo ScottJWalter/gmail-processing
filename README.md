@@ -1,4 +1,6 @@
-![Gmail](./images/gmail.png) ![](./images/plus.png) ![Google Apps Script](./images/apps_script.png) ![](./images/equals.png) ![ToDoist](./images/todoist.png)
+![Gmail](./images/gmail.png) ![Google Apps Script](./images/apps_script.png) ![ToDoist](./images/todoist.png)
+
+<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 
 # Gmail Processing - ToDoist
 > Send emails assigned a specific label to ToDoist to become tasks.
